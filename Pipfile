@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyDataverse = "==0.3.0"
+pydantic = "==1.8.1"
+
+[dev-packages]
+pre-commit = "*"
+black = "==19.10b0"
+pylint = "*"
+radon = "*"
+mypy = "==0.790"
+autopep8 = "*"
