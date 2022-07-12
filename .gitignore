@@ -130,6 +130,6 @@ dmypy.json
 
 # Personal
 
-internal
+project/
 env-configs/
 Pipfile.lock
